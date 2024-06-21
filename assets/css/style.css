@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Header elements */
 /* Page-wide background color, below hero image */
 body {
     background-color: #d9dcd6;
@@ -99,25 +99,13 @@ p {
     text-align: center;
 }
 /* formatting sidebar image: lead generation */
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* formatting sidebar image: lead generation */
-.benefit-brand img {
+.benefit-all img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,29 +132,11 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.services img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
