@@ -89,32 +89,12 @@ p {
     background-color: #2589bd;
 }
 /* individual formadding: sidebar text "lead generation" */
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* individual formadding: sidebar text "brand awareness" */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/* individual formadding: sidebar text "cost management" */
-.benefit-cost {
+.benefit-all {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* sidebar header formatting: lead generation */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* sidebar header formatting: brand awareness */
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/* sidebar header formatting: cost management */
-.benefit-cost h3 {
+.benefit-all h3 {
     margin-bottom: 10px;
     text-align: center;
 }
